@@ -21,15 +21,15 @@ Server output
 GIF
 (1) Real time detect ( help client to take photo )
 
-![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/real_time2_gif.mp4)
+![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/real_time2_gif.gif)
 
 (2) Update image to Server
 
-![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/update_gif.mp4)
+![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/update_gif.gif)
 
 (3) Chose image in cellphone photo library
 
-![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/chose_image_gif.mp4)
+![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/chose_image_gif.gif)
 
 Videos
 
