@@ -2,24 +2,32 @@
 Auto detect image to check normal or record value
 
 
-[1] Model flow
+Model flow
 
 ![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/model_flow.JPG)
 
-[2] APP Demo
+APP Demo
 
 ![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/app_flow.JPG)
 
-[3] Server connect
+Server connect
 
 ![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/connect.JPG)
 
-[4] Server output
+Server output
 
 ![image](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/output.JPG)
 
-(1) real time detect
+(1) Real time detect ( help client to take photo )
 
 ![Watch the video](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/real_time.mp4)
+
+(2) Update image to Server
+
+![Watch the video](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/update.mp4)
+
+(3) Chose image in cellphone photo library
+
+![Watch the video](https://github.com/marcovwu/Blood_Pressure_APP/blob/main/github/chose_image.mp4)
 
 
