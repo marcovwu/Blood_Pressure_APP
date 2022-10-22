@@ -1,5 +1,5 @@
-# Object Detection and Recognition with Its Application to Smart Homecare
-It was a Blood Pressure Server to auto detect image to check normal or record value
+# Object Detection and Recognition with Its Application to Smart Homecare (OD-RASH)
+It is a Blood Pressure Server to auto detect image to check normal or record value.
 
 
 Model flow
